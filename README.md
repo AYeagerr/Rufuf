@@ -388,17 +388,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Lead Developer**: [Your Name]
-- **Project Manager**: [Manager Name]
-- **UI/UX Designer**: [Designer Name]
-- **Database Architect**: [Architect Name]
+- **Lead Developer**: [Abdulrhman Mohamed]
+- **Project Manager**: [Abdulrhman Mohamed]
+- **Database Architect**: [Mohamed Youness @mohamedAY2004]
 
 ## 📞 Support & Contact
 
-- **Email**: [your.email@domain.com]
-- **WhatsApp**: [+20 10 2323 2234]
-- **Project Issues**: [GitHub Issues](https://github.com/yourusername/supermarket-management/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/supermarket-management/wiki)
+- **Email**: [abdulrhman.mohamed026@gmail.com]
+- **WhatsApp**: [+201023232234]
 
 ## 🙏 Acknowledgments
 
@@ -412,9 +409,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 **Made with ❤️ for modern retail management**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/supermarket-management?style=social)](https://github.com/yourusername/supermarket-management)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/supermarket-management?style=social)](https://github.com/yourusername/supermarket-management)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/supermarket-management)](https://github.com/yourusername/supermarket-management/issues)
 
 </div> 
