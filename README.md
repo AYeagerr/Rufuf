@@ -1,4 +1,4 @@
-# 🛒 Rufuf - رفوف | Supermarket Management System
+# 🛒 Rufuf - رفوف (First Markets of Al-Marj) - Supermarket Management System
 
 [![R](https://img.shields.io/badge/R-%3E%3D4.0.0-blue.svg)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Web%20App-orange.svg)](https://shiny.rstudio.com/)
@@ -388,14 +388,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Lead Developer**: [Abdulrhman Mohamed]
-- **Project Manager**: [Abdulrhman Mohamed]
-- **Database Architect**: [Mohamed Youness @mohamedAY2004]
+- **Lead Developer**: [Your Name]
+- **Project Manager**: [Manager Name]
+- **UI/UX Designer**: [Designer Name]
+- **Database Architect**: [Architect Name]
 
 ## 📞 Support & Contact
 
-- **Email**: [abdulrhman.mohamed026@gmail.com]
-- **WhatsApp**: [+201023232234]
+- **Email**: [your.email@domain.com]
+- **WhatsApp**: [+20 10 2323 2234]
+- **Project Issues**: [GitHub Issues](https://github.com/yourusername/supermarket-management/issues)
+- **Documentation**: [Wiki](https://github.com/yourusername/supermarket-management/wiki)
 
 ## 🙏 Acknowledgments
 
@@ -409,5 +412,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 **Made with ❤️ for modern retail management**
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/supermarket-management?style=social)](https://github.com/yourusername/supermarket-management)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/supermarket-management?style=social)](https://github.com/yourusername/supermarket-management)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/supermarket-management)](https://github.com/yourusername/supermarket-management/issues)
 
 </div> 
